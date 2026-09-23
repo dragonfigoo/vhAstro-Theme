@@ -1,14 +1,14 @@
 export default {
   // 网站标题
-  Title: '韩小韩博客',
+  Title: '祁人祁事博客',
   // 网站地址
   Site: 'https://www.vvhan.com',
   // 网站副标题
-  Subtitle: '不曾与你分享的时间,我在进步.',
+  Subtitle: '时间是虚构的,世界是空灵的.',
   // 网站描述
-  Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
+  Description: '祁人祁事博客 专注于分享。生活、音乐和旅行的热爱。',
   // 网站作者
-  Author: '.𝙃𝙖𝙣',
+  Author: '祁人祁事',
   // 作者头像
   Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
   // 网站座右铭
@@ -23,7 +23,7 @@ export default {
     "I am making progress in the time I haven't shared with you.",
   ],
   // 网站创建时间
-  CreateTime: '2021-09-01',
+  CreateTime: '2026-09-23',
   // 顶部 Banner 配置
   HomeBanner: {
     enable: true,
