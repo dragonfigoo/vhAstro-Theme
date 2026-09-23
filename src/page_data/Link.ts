@@ -1,3 +1,4 @@
+// 配置文件 src/page_data/Link.ts
 export default {
   // API 接口请求优先，数据格式保持和 data 一致
   api: '',
